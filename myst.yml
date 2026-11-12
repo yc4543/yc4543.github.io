@@ -14,6 +14,8 @@ project:
     - file: lecture_16_example.ipynb
     - file: project_1.ipynb
     - file: project_2.ipynb
+    - file: project_3.ipynb
+    
 site:
   template: book-theme
   # options:
